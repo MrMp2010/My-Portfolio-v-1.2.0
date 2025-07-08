@@ -137,7 +137,7 @@ Here are some ideas for future enhancements and improvements to the project:
 
 ## 🆚 Comparison with Previous Version (`v1.0.0`)
 
-This version (`v1.2.0`) marks a significant upgrade from its predecessor (`v1.0.0`). The previous iteration was a foundational portfolio piece, likely focusing on basic React concepts and component display. This updated version transforms it into a functional e-commerce platform by introducing:
+This version (`v1.2.0`) marks a significant upgrade from its predecessor (`v1.1.0`). The previous iteration was a foundational portfolio piece, likely focusing on basic React concepts and component display. This updated version transforms it into a functional e-commerce platform by introducing:
 
 * **Comprehensive E-commerce Flow:** Full implementation of product listing, detailed views, and an interactive shopping cart.
 * **Robust User Authentication:** Integration of login, registration, logout, and protected routes with a mock backend.
